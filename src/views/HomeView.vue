@@ -9,7 +9,7 @@
                in California, Washington, Nevada, and, of course, Idaho. Other frequent locations we visit include
                Montana
                and Utah</span>
-         </div>
+         </div> 
          <div class="paragraphMarginTop px-3 text-start">
             <span class="mainParagraphFontSize text-wrap">
                Our team, although small, consists of those who have over a decade of
