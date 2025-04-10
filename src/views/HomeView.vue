@@ -4,8 +4,8 @@
          <h1 class="pageH1">Gem State Tracks are the go-to specialists in Track and Field surface painting</h1>
          <img class="col-sm-8 pageMainImg" alt="" src="../assets/resized/UnionMineOverhead-resized.webp" />
          <div class="paragraphMarginTop px-3 text-start">
-            <span class="mainParagraphFontSize text-wrap">We are a small, extremely mobile company based in Boise,
-               Idaho. We most commonly work
+            <span class="mainParagraphFontSize text-wrap"><b>We are a small, extremely mobile company based in Boise,
+               Idaho.</b> We most commonly work
                in California, Washington, Nevada, and, of course, Idaho. Other frequent locations we visit include
                Montana
                and Utah</span>
